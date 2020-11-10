@@ -1,3 +1,6 @@
+## [0.2.9]
+* Updated rxdart
+
 ## [0.2.8]
 * Bump esc_pos_utils
 
